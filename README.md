@@ -21,7 +21,7 @@ sudo systemctl start postfix
 ```
 
 ## Ajouter le référentiel GitLab CE
-###Créez un nouveau fichier de référentiel pour GitLab:
+### Créez un nouveau fichier de référentiel pour GitLab:
 ```
 sudo vi /etc/yum.repos.d/gitlab-ce.repo
 ```
